@@ -54,13 +54,13 @@ Presentations
 ### [Raes Riding Lessons Website Training Video Presentation](https://www.youtube.com/watch?v=JoLWhlogG9Y)
 
 - **Class:** Systems Analysis and Design
-- **Grade:** 80
+- **Grade:** B
 
 
 ### [Charity Website Group Project Presentation](https://www.youtube.com/watch?v=cwbWQWs2Ucc)
 
 - **Class:** User-Interface Programming
-- **Grade:** 
+- **Grade:** B
 
 ---
 
