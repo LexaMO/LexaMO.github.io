@@ -57,10 +57,10 @@ Presentations
 - **Grade:** 80
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Charity Website Group Project Presentation](https://www.youtube.com/watch?v=cwbWQWs2Ucc)
 
-- **Class:** 
-- **Grade:**
+- **Class:** User-Interface Programming
+- **Grade:** 
 
 ---
 
