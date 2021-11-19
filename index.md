@@ -51,10 +51,10 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Raes Riding Lessons Website Training Video Presentation](https://www.youtube.com/watch?v=JoLWhlogG9Y)
 
-- **Class:** 
-- **Grade:**
+- **Class:** Systems Analysis and Design
+- **Grade:** 80
 
 
 ### [Presentation 2 Title](/pdf/sample_presentation.pdf)
