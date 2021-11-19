@@ -36,7 +36,7 @@ Ethics Papers
 -   **Class:**  Data Structures
 -   **Grade:** B
 
-### [Software Licensing Ethics Paper](/pdf/Operating Systems Ethics Paper.docx)
+### [Software Licensing Ethics Paper](/pdf/Operating%20Systems%20Ethics%20Paper.docx)
 
 -   **Class:** Operating Systems
 -   **Grade:** B
