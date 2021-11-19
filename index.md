@@ -31,15 +31,15 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [THERAC-25 Ethics Paper](/pdf/Data%20Structures%20THERAC25%20Ethics%20Paper.docx)
 
--   **Class:**  
--   **Grade:**
+-   **Class:**  Data Structures
+-   **Grade:** B
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Software Licensing Ethics Paper](/pdf/Operating Systems Ethics Paper.docx)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** Operating Systems
+-   **Grade:** B
 
 ### [Paper 3 Title](/pdf/sample_presentation.pdf)
 
