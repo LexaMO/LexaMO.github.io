@@ -31,5 +31,4 @@ o	Anticipated graduation: May 2022
 - Gold National Career Readiness Certificate obtained 2018 from Ashley Ridge High School
 
 
-[Back to Portfolio](./)\
 [Download a word document of my resume](https://github.com/LexaMO/LexaMO.github.io/blob/master/pdf/lexamosby.resume.docx)
