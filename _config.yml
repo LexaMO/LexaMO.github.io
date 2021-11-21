@@ -10,8 +10,6 @@ description: > # your text below (remove <br /> elements if you don't need line 
   <a href="https://github.com/LexaMO/LexaMO.github.io/blob/master/pdf/Lexamosby_resume.md">View My Resume</a>
   <br /><br />
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
-  <br /><br />
-  <a href="https://github.com/LexaMO">View My Github Profile</a>
 repository: "csci-csu/csci-portfolio"
 github_username:  LexaMO # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
