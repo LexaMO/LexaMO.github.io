@@ -29,10 +29,10 @@ Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eius
 ![screenshot](../images/launch.png)
 Fig 1. The launch screen
 
-![screenshot](../images/option_run.jpg)
+![screenshot](../images/option_run.png)
 Fig 2. Example output after input is processed.
 
-![screenshot](../images/.jpg)
+![screenshot](../images/quit.png)
 Fig 3. Feedback when game is over.
 
 
