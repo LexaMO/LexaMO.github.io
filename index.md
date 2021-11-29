@@ -7,22 +7,22 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:LJMosby@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [Project 1 Title | CSCI 301](projects/Project1)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [HTML Parser Project | CSCI 315](project1)
+### [HTML Parser Project | CSCI 315](projects/Project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Test Prep Driver Project | CSCI 325](project1)
+### [Test Prep Driver Project | CSCI 325](projects/Project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Project 4 Title | CSCI 332](projects/Project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -41,10 +41,6 @@ Ethics Papers
 -   **Class:** Operating Systems
 -   **Grade:** B
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
-
--   **Class:** 
--   **Grade:**
 
 ---
 
