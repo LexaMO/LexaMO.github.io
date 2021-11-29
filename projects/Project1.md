@@ -3,23 +3,23 @@
 Project 1 Title
 ===============
 
--   **Class:** 
--   **Grade:**
--   **Language(s):**
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class:** Survey of Scripting Languages
+-   **Grade:** A
+-   **Language(s):** Perl
+-   **Source Code Repository:** [Test one project](https://github.com/LexaMO/csci-301-spring-2020/tree/master/Testone)  
+    (Please [email me](mailto:LJMosby@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Perl program that simulates guessing game. Program will randomly assign a number to be guessed. User will enter random guess and program will display whether the guess is less than, greater than, or equal to randomized number. Program will also give option for user to continue guessing or quit the game in between guesses.
 
 ## How to compiles / run the program
 
 How to compile (if applicable) and run the project.
 
 ```bash
-cd ./project
-python setup.py
+cd ./testone
+perl testone.pl
 ```
 
 ## UI Design
@@ -37,8 +37,6 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
