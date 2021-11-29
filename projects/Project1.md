@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Scripting Language Project
 ===============
 
 -   **Class:** Survey of Scripting Languages
