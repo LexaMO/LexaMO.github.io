@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Guessing Game Project | CSCI 301](projects/Project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/win.png)
 
 ---
 ### [HTML Parser Project | CSCI 315](projects/Project2)
