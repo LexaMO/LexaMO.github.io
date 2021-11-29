@@ -29,14 +29,12 @@ Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eius
 ![screenshot](../images/launch.png)
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)
+![screenshot](../images/option_run.jpg)
 Fig 2. Example output after input is processed.
 
-![screenshot](images/dummy_thumbnail.jpg)
+![screenshot](../images/.jpg)
 Fig 3. Feedback when game is over.
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 3. Feedback when user wins game.
 
 ## 3. Additional Considerations
 Program displays randomized number to be guessing for testing purposes.
