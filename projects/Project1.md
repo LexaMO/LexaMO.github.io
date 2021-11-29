@@ -33,10 +33,14 @@ Fig 1. The launch screen
 Fig 2. Example output after input is processed.
 
 ![screenshot](images/dummy_thumbnail.jpg)
-Fig 3. Feedback when an error occurs.
+Fig 3. Feedback when game is over.
+
+![screenshot](images/dummy_thumbnail.jpg)
+Fig 3. Feedback when user wins game.
 
 ## 3. Additional Considerations
-
+Program displays randomized number to be guessing for testing purposes.
+Program also does not account for wrong input from user.
 
 
 [Back to Portfolio](../../../)
