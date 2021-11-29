@@ -1,4 +1,4 @@
-[Back to Portfolio](./)
+[Back to Portfolio](../../../)
 
 Project 1 Title
 ===============
@@ -41,4 +41,4 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-[Back to Portfolio](./)
+[Back to Portfolio](../../../)
