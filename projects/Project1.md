@@ -37,7 +37,7 @@ Fig 3. Feedback when game is over.
 
 
 ## 3. Additional Considerations
-Program displays randomized number to be guessing for testing purposes.
+Program displays randomized number to be guessed for testing purposes.
 Program also does not account for wrong input from user.
 
 
