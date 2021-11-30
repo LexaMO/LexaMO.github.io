@@ -26,10 +26,10 @@ make run
 
 Program is designed to scan files and output the contents of each file for testing purposes(see Fig 1.). Program will then display whether they are balanced and how many pages you can visit from that page (see Fig 2.).
 
-![screenshot](images/project2start.png)
+![screenshot](../../images/project2start.png)
 Fig 1. start of program run that displays the contents of each file
 
-![screenshot](images/project2end.png)
+![screenshot](../../images/project2end.png)
 Fig 3. The end of program displays results of tests.
 
 
