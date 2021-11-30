@@ -22,11 +22,6 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/javatop.png)
 
 ---
-### [Project 4 Title | CSCI 332](projects/Project4)
-
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
 
 Ethics Papers
 -------------
