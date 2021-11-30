@@ -22,15 +22,14 @@ java TestPrepDriver.java
 ```
 
 ## UI Design
+Program is designed to emulate a form that gathers information from band students and demonstrate an object and class relationship.
+The TestPrepDriver file (see Fig. 1 and 2) is meant to take from the other two files and their respective functions.
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 1. The launch screen
+![screenshot](../images/javatop.png)
+Fig 1. The beginning of Test Prep file
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 3. Feedback when an error occurs.
+![screenshot](../images/java1end.jpg)
+Fig 2. Bottom of Test Prep file
 
 ## 3. Additional Considerations
 
