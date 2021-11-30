@@ -18,7 +18,7 @@ How to compile (if applicable) and run the project.
 
 ```bash
 cd ./Testprep/src/csu/csci325
-java Musician.java
+java TestPrepDriver.java
 ```
 
 ## UI Design
@@ -35,6 +35,7 @@ Fig 3. Feedback when an error occurs.
 ## 3. Additional Considerations
 
 Contribution Credits: Michael Nicholson
+Program is not running based on issues in Test Prep Driver Function
 
 
 [Back to Portfolio](../../../)
