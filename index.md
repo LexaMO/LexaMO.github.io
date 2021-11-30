@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Test Prep Driver Project | CSCI 325](projects/Project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/javatop.png)
 
 ---
 ### [Project 4 Title | CSCI 332](projects/Project4)
