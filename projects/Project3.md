@@ -6,7 +6,7 @@ Test Prep Driver Project
 -   **Class:** Object Oriented Programming
 -   **Grade:** Unknown
 -   **Language(s):** Java
--   **Source Code Repository:** [Test Prep Driver](https://github.com/LexaMO/csci-325-fall-2019/tree/master/TestPrep/src/csu/csci325)  
+-   **Source Code Repository:** [Test Prep Driver](https://github.com/LexaMO/ProjectsPortfolio/tree/master/Project3)  
     (Please [email me](mailto:LJMosby@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -17,7 +17,7 @@ Test Prep Driver Project
 How to compile (if applicable) and run the project.
 
 ```bash
-cd ./Testprep/src/csu/csci325
+cd ./Project3
 java TestPrepDriver.java
 ```
 
