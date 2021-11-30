@@ -6,7 +6,7 @@ HTML Parser Project
 -   **Class:** Data Structures
 -   **Grade:** c
 -   **Language(s):** c++
--   **Source Code Repository:** [html project src code](https://github.com/LexaMO/csci-315-spring-2021/tree/master/project2/src)  
+-   **Source Code Repository:** [html project src code](https://github.com/LexaMO/ProjectsPortfolio/tree/master/Project2)  
     (Please [email me](mailto:LJMosby@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -17,7 +17,7 @@ A program that determines if the html tags in a file are balanced and finds the 
 How to compile (if applicable) and run the project.
 
 ```bash
-cd ./project2
+cd ./Project2
 make
 make run
 ```
