@@ -24,7 +24,7 @@ perl testone.pl
 
 ## UI Design
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+Program will display the number to be guessed and ask you to guess a number (See Fig 1.). Depending on your input, the program will output whether your guess is too high or low (See Fig. 2). The program will continue to let you guess as long as you choose number 1 when it displays the option between every guess, and the program will terminate if you choose 2 when it gives you the option to quit after a guess (see Fig. 3). 
 
 ![screenshot](../images/launch.png)
 Fig 1. The launch screen
