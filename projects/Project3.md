@@ -28,7 +28,7 @@ The TestPrepDriver file (see Fig. 1 and 2) is meant to take from the other two f
 ![screenshot](../images/javatop.png)
 Fig 1. The beginning of Test Prep file
 
-![screenshot](../images/java1end.jpg)
+![screenshot](../images/java1end.png)
 Fig 2. Bottom of Test Prep file
 
 ## 3. Additional Considerations
