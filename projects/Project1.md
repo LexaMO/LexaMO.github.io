@@ -6,7 +6,7 @@ Scripting Language Project
 -   **Class:** Survey of Scripting Languages
 -   **Grade:** A
 -   **Language(s):** Perl
--   **Source Code Repository:** [Test one project](https://github.com/LexaMO/csci-301-spring-2020/tree/master/Testone)  
+-   **Source Code Repository:** [Test one project](https://github.com/LexaMO/ProjectsPortfolio/tree/master/Project1)  
     (Please [email me](mailto:LJMosby@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -18,7 +18,7 @@ Perl program that simulates guessing game. Program will randomly assign a number
 How to compile (if applicable) and run the project.
 
 ```bash
-cd ./testone
+cd ./Project1
 perl testone.pl
 ```
 
