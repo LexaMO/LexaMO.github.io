@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [HTML Parser Project | CSCI 315](projects/Project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/project2end.jpg)
 
 ---
 ### [Test Prep Driver Project | CSCI 325](projects/Project3)
