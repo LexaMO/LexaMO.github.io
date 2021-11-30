@@ -18,21 +18,21 @@ How to compile (if applicable) and run the project.
 
 ```bash
 cd ./project2
+make
 make run
 ```
 
 ## UI Design
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+Program is designed to scan files and output the contents of each file for testing purposes(see Fig 1.). Program will then display whether they are balanced and how many pages you can visit from that page (see Fig 2.).
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 1. The launch screen
+![screenshot](images/project2start.png)
+Fig 1. start of program run that displays the contents of each file
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 2. Example output after input is processed.
+![screenshot](images/project2end.png)
+Fig 3. The end of program displays results of tests.
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 3. Feedback when an error occurs.
+
 
 ## 3. Additional Considerations
 
