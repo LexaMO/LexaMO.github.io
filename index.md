@@ -26,17 +26,17 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [THERAC-25 Ethics Paper](/pdf/Data%20Structures%20THERAC25%20Ethics%20Paper.docx)
+### [THERAC-25 Ethics Paper](/pdf/Data%20Structures%20THERAC25%20Ethics%20Paper.pdf)
 
 -   **Class:**  Data Structures
 -   **Grade:** B
 
-### [Software Licensing Ethics Paper](/pdf/Operating%20Systems%20Ethics%20Paper.docx)
+### [Software Licensing Ethics Paper](/pdf/Operating%20Systems%20Ethics%20Paper.pdf)
 
 -   **Class:** Operating Systems
 -   **Grade:** B
 
-### [Privacy and Anonymity Ethics Paper](/pdf/Algorithms%20Ethics%20Paper.docx)
+### [Privacy and Anonymity Ethics Paper](/pdf/Algorithms%20Ethics%20Paper.pdf)
 
 -   **Class:** Algorithms
 -   **Grade:** TBD
