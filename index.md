@@ -36,7 +36,7 @@ Ethics Papers
 -   **Class:** Operating Systems
 -   **Grade:** B
 
-### [Privacy and Anonymity Ethics Paper](/pdf/Operating%20Systems%20Ethics%20Paper.docx)
+### [Privacy and Anonymity Ethics Paper](/pdf/Algorithms%20Ethics%20Paper.docx)
 
 -   **Class:** Algorithms
 -   **Grade:** TBD
