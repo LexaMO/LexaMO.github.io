@@ -6,7 +6,7 @@ HTML Parser Project
 -   **Class:** Data Structures
 -   **Grade:** c
 -   **Language(s):** c++
--   **Source Code Repository:** [html project src code](https://github.com/LexaMO/ProjectsPortfolio/tree/master/Project2)  
+-   **Source Code Repository:** [html project src code](https://github.com/LexaMO/Portfolio-Project-2)  
     (Please [email me](mailto:LJMosby@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
