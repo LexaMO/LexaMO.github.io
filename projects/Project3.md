@@ -6,7 +6,7 @@ Test Prep Driver Project
 -   **Class:** Object Oriented Programming
 -   **Grade:** Unknown
 -   **Language(s):** Java
--   **Source Code Repository:** [Test Prep Driver](https://github.com/LexaMO/ProjectsPortfolio/tree/master/Project3)  
+-   **Source Code Repository:** [Test Prep Driver](https://github.com/LexaMO/Portfolio-Project-3)  
     (Please [email me](mailto:LJMosby@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
