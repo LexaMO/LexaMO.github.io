@@ -6,7 +6,7 @@ Scripting Language Project
 -   **Class:** Survey of Scripting Languages
 -   **Grade:** A
 -   **Language(s):** Perl
--   **Source Code Repository:** [Test one project](https://github.com/LexaMO/ProjectsPortfolio/tree/master/Project1)  
+-   **Source Code Repository:** [Test one project](https://github.com/LexaMO/Portfolio-Project-1)  
     (Please [email me](mailto:LJMosby@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
