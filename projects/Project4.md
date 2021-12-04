@@ -23,12 +23,12 @@ make
 ```
 
 ## UI Design
-
+Running the program demonstrates data flow through the instructions
 
 
 
 ## 3. Additional Considerations
-
+source code of my own contribution is under 'source' folder. All other files are for compiling and testing
 
 
 [Back to Portfolio](../../../)
