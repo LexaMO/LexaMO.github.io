@@ -35,6 +35,7 @@ Fig 3. The end of program displays results of tests.
 
 
 ## 3. Additional Considerations
+All code of my own contribution is under src folder, all other files are for testing and compiling.
 
  
 
